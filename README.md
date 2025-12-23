@@ -4,4 +4,4 @@ Colección de ejercicios y proyectos básicos enfocados en lógica de programaci
 Python
 ## Autora
 MORELIA ALEXANDRA ESTUPINIAN AGUIRRE
-
+[LinkedIn](www.linkedin.com/in/morelia-alexandra-estupinian-aguirre-8b291939b)
